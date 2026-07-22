@@ -97,13 +97,6 @@ I’m currently focusing on:
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseanh14\&theme=shadow_blue\&hide_border=false\&include_all_commits=true\&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=roseanh14\&theme=shadow_blue\&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roseanh14\&theme=shadow_blue\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
 
 ## 🌐 Connect With Me
 
