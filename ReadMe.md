@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Rose 👋<br><br>Software developer who enjoys building practical tools and learning in public.  <br><br>#About Me<br>- 🧑‍💻 Always positive!<br>- 🎯 Goal: grow into a well-rounded software engineer and keep leveling up every week.<br><br># Tech<br>Python, JavaScript, React, HTML/CSS/Tailwind, MongoDB,SQL<br><br># I’m open to<br>- Junior/entry Full-stack, Backend, or Frontend roles  <br>- Remote-friendly teams that value clean code, reviews, and learning<br><br># Connect<br>- 🔗 LinkedIn: https://www.linkedin.com/in/roseanh14  
+Hi, I’m Rose 👋<br><br>Software developer who enjoys building practical tools and learning in public.  <br><br>#About Me<br>- 🧑‍💻 Always positive!<br>- 🎯 Goal: grow into a well-rounded software engineer and keep leveling up every week.<br><br># Tech<br>Python, JavaScript, React, HTML/CSS/Tailwind, MongoDB,SQL<br><br># I’m open to<br>- Junior/entry Full-stack, AI engineer  <br>- Remote-friendly teams that value clean code, reviews, and learning<br><br># Connect<br>- 🔗 LinkedIn: https://www.linkedin.com/in/roseanh14  
 
 
 ## 🌐 Socials:
